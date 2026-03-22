@@ -35,11 +35,11 @@ A live session covering the foundational machine learning methods used in medica
 - Unsupervised Learning: K-means and Hierarchical Clustering
 - Implementation of Machine Learning Methods
 
-> 📂 **Slides:** [`SPARK2026_FDN_W05_Intro_ML_Concepts.pptx`](slides/SPARK2026_FDN_W05_Intro_ML_Concepts.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W05_Intro_ML_Concepts.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%205%20-%20Introduction%20to%20Machine%20Learning%20Concepts/slides/SPARK2026_FDN_W05_Intro_ML_Concepts.pdf)
 
 **Click the image below to watch the recorded session:**
 
-[![Introduction to Machine Learning Concepts](thumbnails/ml.png)](https://youtu.be/A0AEYfVSdxI)
+[![Introduction to Machine Learning Concepts](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%205%20-%20Introduction%20to%20Machine%20Learning%20Concepts/thumbnails/ml.png?raw=true)](https://youtu.be/A0AEYfVSdxI)
 
 ### Training Notebooks
 
@@ -64,7 +64,7 @@ A live session providing an overview of the key tools used in neuroimaging workf
 
 **Click the image below to watch the recorded session:**
 
-[![Neuroimaging Tools and Applications](thumbnails/neuroimaging.png)](https://youtu.be/TSBAjPfnsHo)
+[![Neuroimaging Tools and Applications](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%205%20-%20Introduction%20to%20Machine%20Learning%20Concepts/thumbnails/neuroimaging.png?raw=true)](https://youtu.be/TSBAjPfnsHo)
 
 ---
  
