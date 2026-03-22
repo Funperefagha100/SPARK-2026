@@ -133,10 +133,6 @@ SPARK 2026 | Foundation Week 5 - Introduction to Machine Learning Concepts/
 - [MONAI Label Documentation](https://docs.monai.io/projects/label/en/latest/)
 - [ITK Documentation](https://itk.org/documentation/)
 
-**Neuroimaging — General:**
-- [Radiopaedia - Neuroimaging](https://radiopaedia.org/articles/neuroimaging)
-- [Nilearn - Neuroimaging with Python](https://nilearn.github.io/)
-
 **Supplementary Notebooks:**
 
 *Notebook 1: ML Concepts & Supervised Learning*
