@@ -37,7 +37,7 @@ A live session by Prof Craig Jones covering the core concepts and techniques for
 - Handling missing data and artefacts
 - Normalisation and standardisation techniques
 
-> 📂 **Slides:** [`SPARK2026_FDN_W06_Medical_Data_Preprocessing.pptx`](slides/SPARK2026_FDN_W06_Medical_Data_Preprocessing.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W06_Medical_Data_Preprocessing.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%206%20-%20Medical%20data%20manipulation%20and%20preprocessing/slides/SPARK2026_FDN_W06_Medical_Data_Preprocessing.pdf)
 
 **Click the image below to watch the recorded session:**
 
