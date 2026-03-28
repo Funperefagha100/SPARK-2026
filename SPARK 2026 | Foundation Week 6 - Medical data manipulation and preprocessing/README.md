@@ -41,7 +41,7 @@ A live session by Prof Craig Jones covering the core concepts and techniques for
 
 **Click the image below to watch the recorded session:**
 
-[![Medical Data Manipulation and Preprocessing](thumbnails/preprocessing.png)](https://youtu.be/)
+[![Medical Data Manipulation and Preprocessing](thumbnails/preprocessing.png)](https://youtu.be/_DhKXlqTQlI)
 
 ---
 
