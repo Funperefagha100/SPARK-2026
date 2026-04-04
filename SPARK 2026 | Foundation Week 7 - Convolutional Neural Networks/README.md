@@ -15,7 +15,7 @@
 
 ## Overview
 
-Welcome to Week 7 of SPARK Academy 2026! This week dives deep into Convolutional Neural Networks, from the fundamentals of deep learning to building and training custom CNN models for medical imaging. All four sessions are delivered by Confidence Raymond, taking you from theory to full implementation.
+Welcome to Week 7 of SPARK Academy 2026! This week dives deep into Convolutional Neural Networks, from the fundamentals of deep learning to building and training custom CNN models for medical imaging.
 
 **This week covers four sessions:**
 
@@ -25,6 +25,14 @@ Welcome to Week 7 of SPARK Academy 2026! This week dives deep into Convolutional
 | 2 | Deep Learning Fundamentals I | Confidence Raymond | Live |
 | 3 | Deep Learning Fundamentals II | Confidence Raymond | Live |
 | 4 | Custom Data Preparation and Model Training | Confidence Raymond | Live |
+
+### SPARK 2026 Recording
+
+> 📂 **Slides:** [`SPARK2026_FDN_W07_CNN.pptx`](slides/SPARK2026_FDN_W07_CNN.pptx)
+
+**Click the image below to watch the full SPARK 2026 recorded session:**
+
+[![SPARK 2026 | Week 7 - Convolutional Neural Networks](thumbnails/cnn.png)](https://youtu.be/)
 
 ---
 
@@ -38,9 +46,13 @@ A live session introducing the architecture and mechanics of Convolutional Neura
 - Pooling, padding, and stride
 - CNN architectures overview
 
-**Click the image below to watch the recorded session:**
+### 🕐 SPARK 2025 Edition
 
-[![Convolutional Neural Networks](thumbnails/cnn.png)](https://youtu.be/)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_CNN.pptx`](slides/SPARK2025_FDN_W07_CNN.pptx)
+
+**Click the image below to watch the SPARK 2025 recorded session:**
+
+[![SPARK 2025 | Convolutional Neural Networks](thumbnails/2025_cnn.png)](https://youtu.be/)
 
 ---
 
@@ -54,9 +66,13 @@ A live session covering the core building blocks of deep learning, essential the
 - Loss functions and optimisation
 - Backpropagation and gradient descent
 
-**Click the image below to watch the recorded session:**
+### 🕐 SPARK 2025 Edition
 
-[![Deep Learning Fundamentals I](thumbnails/dl1.png)](https://youtu.be/)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_I.pptx`](slides/SPARK2025_FDN_W07_Deep_Learning_Fundamentals_I.pptx)
+
+**Click the image below to watch the SPARK 2025 recorded session:**
+
+[![SPARK 2025 | Deep Learning Fundamentals I](thumbnails/2025_dl1.png)](https://youtu.be/)
 
 ---
 
@@ -70,9 +86,13 @@ A live session continuing from Fundamentals I, diving deeper into training strat
 - Model evaluation and performance metrics
 - Practical tips for training deep networks
 
-**Click the image below to watch the recorded session:**
+### 🕐 SPARK 2025 Edition
 
-[![Deep Learning Fundamentals II](thumbnails/dl2.png)](https://youtu.be/)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_II.pptx`](slides/SPARK2025_FDN_W07_Deep_Learning_Fundamentals_II.pptx)
+
+**Click the image below to watch the SPARK 2025 recorded session:**
+
+[![SPARK 2025 | Deep Learning Fundamentals II](thumbnails/2025_dl2.png)](https://youtu.be/)
 
 ---
 
@@ -86,15 +106,17 @@ A live session walking through end-to-end custom dataset preparation and model t
 - Designing and training a CNN from scratch
 - Evaluating and saving trained models
 
-**Click the image below to watch the recorded session:**
+### 🕐 SPARK 2025 Edition
 
-[![Custom Data Preparation and Model Training](thumbnails/training.png)](https://youtu.be/)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Custom_Data_Preparation_Model_Training.pptx`](slides/SPARK2025_FDN_W07_Custom_Data_Preparation_Model_Training.pptx)
+
+**Click the image below to watch the SPARK 2025 recorded session:**
+
+[![SPARK 2025 | Custom Data Preparation and Model Training](thumbnails/2025_training.png)](https://youtu.be/)
 
 ---
 
 ## Training Notebooks
-
-> 📂 **Slides:** [`SPARK2026_FDN_W07_CNN.pptx`](slides/SPARK2026_FDN_W07_CNN.pptx)
 
 **Notebook 1: Student Mark Prediction**
 
@@ -204,12 +226,14 @@ Attachments:
 SPARK 2026 | Foundation Week 7 - Convolutional Neural Networks (CNN)/
 ├── README.md
 ├── slides/
-│   └── SPARK2026_FDN_W07_CNN.pptx
+│   ├── SPARK2026_FDN_W07_CNN.pptx
+│   ├── additional/
 ├── thumbnails/
 │   ├── cnn.png
-│   ├── dl1.png
-│   ├── dl2.png
-│   └── training.png
+│   ├── 2025_cnn.png
+│   ├── 2025_dl1.png
+│   ├── 2025_dl2.png
+│   └── 2025_training.png
 ├── notebooks/
 │   ├── SPARK2026_FDN_W07_Student_Mark_Prediction.ipynb
 │   ├── SPARK2026_FDN_W07_Handwritten_Digit_Recognition_CNN.ipynb
