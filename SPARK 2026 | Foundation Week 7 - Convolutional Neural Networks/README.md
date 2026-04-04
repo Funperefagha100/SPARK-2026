@@ -48,11 +48,11 @@ A live session introducing the architecture and mechanics of Convolutional Neura
 
 ### 🕐 SPARK 2025 Edition
 
-> 📂 **Slides:** [`SPARK2025_FDN_W07_CNN.pptx`](slides/SPARK2025_FDN_W07_CNN.pptx)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_CNN.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/slides/additional/Convolutional%20Neural%20networks.pptx)
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Convolutional Neural Networks](thumbnails/2025_cnn.png)]()
+[![SPARK 2025 | Convolutional Neural Networks](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_3.png)](https://youtu.be/Zzl6XcngGEc)
 
 ---
 
@@ -68,11 +68,11 @@ A live session covering the core building blocks of deep learning, essential the
 
 ### 🕐 SPARK 2025 Edition
 
-> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_I.pptx`](slides/SPARK2025_FDN_W07_Deep_Learning_Fundamentals_I.pptx)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_I.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/slides/additional/Deep%20Learning%20Fundamentals.pptx)
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Deep Learning Fundamentals I](thumbnails/2025_dl1.png)](https://youtu.be/)
+[![SPARK 2025 | Deep Learning Fundamentals I](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_1_I.png)](https://youtu.be/C046R3Kpo8s)
 
 ---
 
@@ -88,11 +88,11 @@ A live session continuing from Fundamentals I, diving deeper into training strat
 
 ### 🕐 SPARK 2025 Edition
 
-> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_II.pptx`](slides/SPARK2025_FDN_W07_Deep_Learning_Fundamentals_II.pptx)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Deep_Learning_Fundamentals_II.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/slides/additional/Deep%20Learning%20Fundamentals.pptx)
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Deep Learning Fundamentals II](thumbnails/2025_dl2.png)](https://youtu.be/)
+[![SPARK 2025 | Deep Learning Fundamentals II](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_1_II.png)](https://youtu.be/E84oXbtDr0s)
 
 ---
 
@@ -108,11 +108,11 @@ A live session walking through end-to-end custom dataset preparation and model t
 
 ### 🕐 SPARK 2025 Edition
 
-> 📂 **Slides:** [`SPARK2025_FDN_W07_Custom_Data_Preparation_Model_Training.pptx`](slides/SPARK2025_FDN_W07_Custom_Data_Preparation_Model_Training.pptx)
+> 📂 **Slides:** [`SPARK2025_FDN_W07_Custom_Data_Preparation_Model_Training.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/slides/additional/Custom%20Data%20Preparation.pptx)
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Custom Data Preparation and Model Training](thumbnails/2025_training.png)](https://youtu.be/)
+[![SPARK 2025 | Custom Data Preparation and Model Training](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_3.png)](https://youtu.be/CctqLxuHDDc)
 
 ---
 
