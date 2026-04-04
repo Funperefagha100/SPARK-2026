@@ -32,7 +32,7 @@ Welcome to Week 7 of SPARK Academy 2026! This week dives deep into Convolutional
 
 **Click the image below to watch the full SPARK 2026 recorded session:**
 
-[![SPARK 2026 | Week 7 - Convolutional Neural Networks](thumbnails/cnn.png)](https://youtu.be/)
+[![SPARK 2026 | Week 7 - Convolutional Neural Networks](thumbnails/cnn.png)](https://youtu.be/-wU6d4M-PHE)
 
 ---
 
@@ -52,7 +52,7 @@ A live session introducing the architecture and mechanics of Convolutional Neura
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Convolutional Neural Networks](thumbnails/2025_cnn.png)](https://youtu.be/)
+[![SPARK 2025 | Convolutional Neural Networks](thumbnails/2025_cnn.png)]()
 
 ---
 
