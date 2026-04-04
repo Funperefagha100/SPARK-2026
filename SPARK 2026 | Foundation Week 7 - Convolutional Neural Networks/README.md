@@ -28,11 +28,11 @@ Welcome to Week 7 of SPARK Academy 2026! This week dives deep into Convolutional
 
 ### SPARK 2026 Recording
 
-> 📂 **Slides:** [`SPARK2026_FDN_W07_CNN.pptx`](slides/SPARK2026_FDN_W07_CNN.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W07_CNN.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/slides/SPARK2026_FDN_W07_CNN.pptx)
 
 **Click the image below to watch the full SPARK 2026 recorded session:**
 
-[![SPARK 2026 | Week 7 - Convolutional Neural Networks](thumbnails/cnn.png)](https://youtu.be/-wU6d4M-PHE)
+[![SPARK 2026 | Week 7 - Convolutional Neural Networks](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/cnn.png)](https://youtu.be/-wU6d4M-PHE)
 
 ---
 
