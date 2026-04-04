@@ -52,7 +52,7 @@ A live session introducing the architecture and mechanics of Convolutional Neura
 
 **Click the image below to watch the SPARK 2025 recorded session:**
 
-[![SPARK 2025 | Convolutional Neural Networks](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_3.png)](https://youtu.be/Zzl6XcngGEc)
+[![SPARK 2025 | Convolutional Neural Networks](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/week7_2.png)](https://youtu.be/Zzl6XcngGEc)
 
 ---
 
