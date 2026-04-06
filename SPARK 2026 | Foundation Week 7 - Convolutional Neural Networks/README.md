@@ -171,7 +171,7 @@ Images have been renamed using the SPARK standard naming convention (`CXR_00001.
 
 **Click the image below to watch the tutorial:**
 
-[![How to Access the Competition Dataset](thumbnails/dataset_tutorial.png)](https://youtu.be/JPDju3XBOuE)
+[![How to Access the Competition Dataset](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%207%20-%20Convolutional%20Neural%20Networks/thumbnails/dataset.png)](https://youtu.be/JPDju3XBOuE)
 
 
 ---
