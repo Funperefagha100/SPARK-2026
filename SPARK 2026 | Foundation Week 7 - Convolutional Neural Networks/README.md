@@ -166,6 +166,14 @@ Images have been renamed using the SPARK standard naming convention (`CXR_00001.
 
 > 📊 Once your team submits to the Kaggle competition, the **leaderboard updates automatically**, use it to monitor your team's performance and track your score against other teams in real time.
 
+
+### 📥 How to Access the Competition Dataset
+
+**Click the image below to watch the tutorial:**
+
+[![How to Access the Competition Dataset](thumbnails/dataset_tutorial.png)](https://youtu.be/JPDju3XBOuE)
+
+
 ---
 
 #### 📁 Submission Requirements
