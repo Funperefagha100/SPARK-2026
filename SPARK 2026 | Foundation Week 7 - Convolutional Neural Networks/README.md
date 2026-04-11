@@ -198,7 +198,7 @@ The notebook used for your submission, clearly commented and reproducible.
 
 All submissions must be sent to the **official SPARK Academy email** using the format below:
 
-> **To:** `spark@cameramriafrica.org`
+> **To:** `info.camera.mri@gmail.com`
 > **Subject:** `SPARK2026 Mini Challenge Submission — TEAMNAME`
 
 **Email Body Format:**
