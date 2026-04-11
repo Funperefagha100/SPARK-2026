@@ -65,7 +65,7 @@ A live session introducing the U-Net architecture, its design principles, and it
 
 | Google Colab | Kaggle |
 |:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_o9y4rKiZJYJnSh7dgl2BXfjblNIgQT?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ismailukman/spark-braintumorseg2026) |
 
 ---
 
