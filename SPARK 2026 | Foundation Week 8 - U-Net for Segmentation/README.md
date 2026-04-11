@@ -40,7 +40,7 @@ A live session covering the MR imaging sequences and clinical protocols used in 
 
 **Click the image below to watch the recorded session:**
 
-[![MR Imaging Sequences and Protocols for Glioma](thumbnails/mri_glioma.png)](https://youtu.be/)
+[![MR Imaging Sequences and Protocols for Glioma](thumbnails/mri_glioma.png)](https://youtu.be/NoZrV_Ap1Bc)
 
 ---
 
@@ -59,13 +59,26 @@ A live session introducing the U-Net architecture, its design principles, and it
 
 **Click the image below to watch the recorded session:**
 
-[![U-Net for Segmentation](thumbnails/unet.png)](https://youtu.be/)
+[![U-Net for Segmentation](thumbnails/unet.png)](https://youtu.be/sHqEoM6LJD8)
 
 ### Training Notebook
 
 | Google Colab | Kaggle |
 |:---:|:---:|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1I_o9y4rKiZJYJnSh7dgl2BXfjblNIgQT?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/ismailukman/spark-braintumorseg2026) |
+
+
+[![U-Net Segmentation Code](https://img.shields.io/badge/GitHub-U--Net_Segmentation_Code-black?logo=github)](https://github.com/ismailukman/FoundationalCourse_Python-OOP/tree/main/Brain%20Tumor%20Segmentation)
+
+---
+## 🏆 Featured Notebooks | Chest X-Ray Pneumonia Classification Challenge
+
+Notebooks from top-performing teams, shared for the community to learn from.
+
+| Team | Notebook |
+|------|----------|
+| Team Nepal | [Everest](https://colab.research.google.com/drive/1rZgzxDn2xxtymduyxTWGoZMCrXRAh9ER?usp=sharing) |
+| Team Botswana | [Clinical Code](https://colab.research.google.com/drive/1vS7xn4DmVZ5zRN8Poh5fy3ZQDwJO1E6b?usp=sharing) |
 
 ---
 
