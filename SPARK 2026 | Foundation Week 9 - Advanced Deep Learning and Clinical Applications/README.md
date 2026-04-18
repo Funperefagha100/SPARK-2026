@@ -67,7 +67,7 @@ A session introducing Generative Adversarial Networks and their powerful applica
 
 | Google Colab | Kaggle |
 |:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1qAz9_HMI2zs7tEMsOKQ2Y2YN8HynxTSa?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/week-9-generative-adversarial-networks-gans) |
 
 ---
 
@@ -92,7 +92,11 @@ A session covering Transfer Learning, one of the most practical techniques in de
 
 | Google Colab | Kaggle |
 |:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wC1LWnj2AicBOPyRIH_-nzwyZpkh60_I?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/spark2026-transfer-learning) |
+
+
+|:---:|:---:|
+| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ub1NG9ielpmxaSetZBni5qi-KZ6jXXmy?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aondonamoses/transfer-learning) |
 
 ---
 
