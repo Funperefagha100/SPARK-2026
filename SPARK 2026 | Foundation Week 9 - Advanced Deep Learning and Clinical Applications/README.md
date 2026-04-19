@@ -115,7 +115,7 @@ This week you will work on **two separate challenges**, applying transfer learni
 
 ### Challenge 2: Breast Lesion Segmentation with Transfer Learning
 
-🔗 **Kaggle Competition:** [SPARK 2026 | W9-BUS: Breast Lesion Segmentation with Transfer Learning](https://www.kaggle.com/t/61a11c5ef7d8474dbf48ea8bf8ee9b61)
+🔗 **Kaggle Competition:** [SPARK 2026 | Breast Lesion Segmentation with Transfer Learning](https://www.kaggle.com/t/fd0a9e5910c4444ca0f8ac4e8c1e1bb9)
 
 ---
 
