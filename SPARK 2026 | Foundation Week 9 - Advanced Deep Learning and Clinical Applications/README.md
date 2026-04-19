@@ -21,9 +21,9 @@ Welcome to Week 9 of SPARK Academy 2026! This week covers the clinical applicati
 
 | # | Session | Facilitator | Format |
 |---|---------|-------------|--------|
-| 1 | Preoperative Planning and Diagnosis and Staging | | |
-| 2 | Advanced Deep Learning Techniques I (GANs) | | |
-| 3 | Advanced Deep Learning Techniques I (Transfer Learning) | | |
+| 1 | Preoperative Planning and Diagnosis and Staging | Dr Nourou Dine Bankole | Live |
+| 2 | Advanced Deep Learning Techniques I (GANs) |Toufiq Musah  | Live |
+| 3 | Advanced Deep Learning Techniques I (Transfer Learning) | Aondona Iorumbur | Live |
 
 ---
 
@@ -42,7 +42,7 @@ A session covering the role of AI in preoperative planning and the clinical stag
 
 **Click the image below to watch the recorded session:**
 
-[![Preoperative Planning and Diagnosis and Staging](thumbnails/preoperative.png)](https://youtu.be/)
+[![Preoperative Planning and Diagnosis and Staging](thumbnails/preoperative.png)](https://youtu.be/sKpTe6dSstU)
 
 ---
 
@@ -86,17 +86,13 @@ A session covering Transfer Learning, one of the most practical techniques in de
 
 **Click the image below to watch the recorded session:**
 
-[![Advanced Deep Learning Techniques II - Transfer Learning](thumbnails/transfer_learning.png)](https://youtu.be/)
+[![Advanced Deep Learning Techniques II - Transfer Learning](thumbnails/transfer_learning.png)](https://youtu.be/PBCyxZZb3i4)
 
 ### Training Notebook
 
 | Google Colab | Kaggle |
 |:---:|:---:|
 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wC1LWnj2AicBOPyRIH_-nzwyZpkh60_I?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/spark2025/spark2026-transfer-learning) |
-
-
-|:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Ub1NG9ielpmxaSetZBni5qi-KZ6jXXmy?usp=sharing) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/aondonamoses/transfer-learning) |
 
 ---
 
