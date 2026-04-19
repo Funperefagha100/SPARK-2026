@@ -38,7 +38,7 @@ A session covering the role of AI in preoperative planning and the clinical stag
 - Clinical decision support systems
 - Case studies in glioma and oncology
 
-> 📂 **Slides:** [`SPARK2026_FDN_W09_Preoperative_Planning_Staging.pptx`](slides/SPARK2026_FDN_W09_Preoperative_Planning_Staging.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W09_Preoperative_Planning_Staging.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%209%20-%20Advanced%20Deep%20Learning%20and%20Clinical%20Applications/slides/SPARK2026_FDN_W09_Preoperative_Planning_Staging.pdf)
 
 **Click the image below to watch the recorded session:**
 
@@ -57,7 +57,7 @@ A session introducing Generative Adversarial Networks and their powerful applica
 - Applications of GANs in medical image synthesis
 - Practical GAN examples for medical imaging
 
-> 📂 **Slides:** [`SPARK2026_FDN_W09_Advanced_DL_GANs.pptx`](slides/SPARK2026_FDN_W09_Advanced_DL_GANs.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W09_Advanced_DL_GANs.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%209%20-%20Advanced%20Deep%20Learning%20and%20Clinical%20Applications/slides/SPARK2026_FDN_W09_Advanced_DL_GANs.pptx)
 
 **Click the image below to watch the recorded session:**
 
@@ -82,7 +82,6 @@ A session covering Transfer Learning, one of the most practical techniques in de
 - Domain adaptation for medical imaging
 - Practical transfer learning examples
 
-> 📂 **Slides:** [`SPARK2026_FDN_W09_Advanced_DL_Transfer_Learning.pptx`](slides/SPARK2026_FDN_W09_Advanced_DL_Transfer_Learning.pptx)
 
 **Click the image below to watch the recorded session:**
 
