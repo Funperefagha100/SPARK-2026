@@ -61,7 +61,7 @@ A session introducing Generative Adversarial Networks and their powerful applica
 
 **Click the image below to watch the recorded session:**
 
-[![Advanced Deep Learning Techniques I - GANs](thumbnails/gans.png)](https://youtu.be/)
+[![Advanced Deep Learning Techniques I - GANs](thumbnails/gans.png)](https://youtu.be/VojrpXYUReE)
 
 ### Training Notebook
 
