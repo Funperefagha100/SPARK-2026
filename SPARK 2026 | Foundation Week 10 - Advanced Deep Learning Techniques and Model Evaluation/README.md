@@ -59,17 +59,11 @@ A live session covering the essential techniques for evaluating and validating d
 - Statistical significance and model comparison
 - Clinical validation considerations
 
-> 📂 **Slides:** [`SPARK2026_FDN_W10_Model_Evaluation_Validation.pptx`](slides/SPARK2026_FDN_W10_Model_Evaluation_Validation.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W10_Model_Evaluation_Validation.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%2010%20-%20Advanced%20Deep%20Learning%20Techniques%20and%20Model%20Evaluation/slides/SPARK_ModelEval_Validation.pptx)
 
 **Click the image below to watch the recorded session:**
 
 [![Model Evaluation and Validation](thumbnails/evaluation.png)](https://youtu.be/)
-
-### Training Notebook
-
-| Google Colab | Kaggle |
-|:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
 
 ---
 
@@ -84,7 +78,7 @@ A live session introducing Knowledge Distillation, a technique for training comp
 - Applications in medical imaging
 - Practical implementation in PyTorch
 
-> 📂 **Slides:** [`SPARK2026_FDN_W10_Knowledge_Distillation.pptx`](slides/SPARK2026_FDN_W10_Knowledge_Distillation.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W10_Knowledge_Distillation.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%2010%20-%20Advanced%20Deep%20Learning%20Techniques%20and%20Model%20Evaluation/slides/SPARK2026_FDN_W10_Knowledge_Distillation.pdf)
 
 **Click the image below to watch the recorded session:**
 
@@ -122,7 +116,7 @@ A live session covering lightweight deep learning architectures designed for eff
 - Edge deployment for medical imaging
 - Practical trade-offs between accuracy and efficiency
 
-> 📂 **Slides:** [`SPARK2026_FDN_W10_Lightweight_Models.pptx`](slides/SPARK2026_FDN_W10_Lightweight_Models.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W10_Lightweight_Models.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%2010%20-%20Advanced%20Deep%20Learning%20Techniques%20and%20Model%20Evaluation/slides/SPARK2026_FDN_W10_Lightweight_Models.pdf)
 
 **Click the image below to watch the recorded session:**
 
