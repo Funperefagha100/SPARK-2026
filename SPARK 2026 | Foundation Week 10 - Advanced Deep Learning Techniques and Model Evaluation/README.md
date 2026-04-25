@@ -29,7 +29,26 @@ Welcome to Week 10 of SPARK Academy 2026! This week covers model evaluation and 
 
 ---
 
-## Session 1: Model Evaluation and Validation
+## Session 1: Advanced Deep Learning Techniques II (MedNext)
+
+A live session introducing MedNext, a transformer-based architecture designed for volumetric medical image segmentation.
+
+**Topics Covered:**
+- Overview of MedNext architecture
+- Transformers for medical image segmentation
+- Comparison with U-Net and nnUNet
+- Training and fine-tuning MedNext
+- Practical applications in brain tumour segmentation
+
+> 📂 **Slides:** [`SPARK2026_FDN_W10_MedNext.pptx`](slides/SPARK2026_FDN_W10_MedNext.pptx)
+
+**Click the image below to watch the recorded session:**
+
+[![Advanced Deep Learning Techniques II - MedNext](thumbnails/mednext.png)](https://youtu.be/)
+
+---
+
+## Session 2: Model Evaluation and Validation
 
 A live session covering the essential techniques for evaluating and validating deep learning models in medical imaging, ensuring reliable and clinically meaningful performance metrics.
 
@@ -54,7 +73,7 @@ A live session covering the essential techniques for evaluating and validating d
 
 ---
 
-## Session 2: Advanced Deep Learning Techniques II (Knowledge Distillation)
+## Session 3: Advanced Deep Learning Techniques II (Knowledge Distillation)
 
 A live session introducing Knowledge Distillation, a technique for training compact student models to mimic the behaviour of larger teacher models.
 
@@ -70,31 +89,6 @@ A live session introducing Knowledge Distillation, a technique for training comp
 **Click the image below to watch the recorded session:**
 
 [![Advanced Deep Learning Techniques II - Knowledge Distillation](thumbnails/distillation.png)](https://youtu.be/LhJLsjzj0Mc)
-
----
-
-## Session 3: Advanced Deep Learning Techniques II (MedNext)
-
-A live session introducing MedNext, a transformer-based architecture designed for volumetric medical image segmentation.
-
-**Topics Covered:**
-- Overview of MedNext architecture
-- Transformers for medical image segmentation
-- Comparison with U-Net and nnUNet
-- Training and fine-tuning MedNext
-- Practical applications in brain tumour segmentation
-
-> 📂 **Slides:** [`SPARK2026_FDN_W10_MedNext.pptx`](slides/SPARK2026_FDN_W10_MedNext.pptx)
-
-**Click the image below to watch the recorded session:**
-
-[![Advanced Deep Learning Techniques II - MedNext](thumbnails/mednext.png)](https://youtu.be/)
-
-### Training Notebook
-
-| Google Colab | Kaggle |
-|:---:|:---:|
-| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) | [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/) |
 
 ---
 
