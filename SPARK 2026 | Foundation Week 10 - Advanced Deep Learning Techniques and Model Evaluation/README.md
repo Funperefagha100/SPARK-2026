@@ -44,7 +44,7 @@ A live session introducing MedNext, a transformer-based architecture designed fo
 
 **Click the image below to watch the recorded session:**
 
-[![Advanced Deep Learning Techniques II - MedNext](thumbnails/mednext.png)](https://youtu.be/)
+[![Advanced Deep Learning Techniques II - MedNext](thumbnails/mednext.png)](https://youtu.be/Scxm1pJl1j8)
 
 ---
 
@@ -63,7 +63,7 @@ A live session covering the essential techniques for evaluating and validating d
 
 **Click the image below to watch the recorded session:**
 
-[![Model Evaluation and Validation](thumbnails/evaluation.png)](https://youtu.be/)
+[![Model Evaluation and Validation](thumbnails/evaluation.png)](https://youtu.be/bQGej4E8Fi8)
 
 ---
 
@@ -120,7 +120,7 @@ A live session covering lightweight deep learning architectures designed for eff
 
 **Click the image below to watch the recorded session:**
 
-[![Lightweight Models](thumbnails/lightweight.png)](https://youtu.be/)
+[![Lightweight Models](thumbnails/lightweight.png)](https://youtu.be/nGofrvIBlQU)
 
 ### Training Notebooks
 
