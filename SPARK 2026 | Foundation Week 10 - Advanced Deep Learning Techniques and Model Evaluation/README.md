@@ -40,7 +40,7 @@ A live session introducing MedNext, a transformer-based architecture designed fo
 - Training and fine-tuning MedNext
 - Practical applications in brain tumour segmentation
 
-> 📂 **Slides:** [`SPARK2026_FDN_W10_MedNext.pptx`](slides/SPARK2026_FDN_W10_MedNext.pptx)
+> 📂 **Slides:** [`SPARK2026_FDN_W10_MedNext.pptx`](https://github.com/SPARK-Academy-2025/SPARK-2026/blob/main/SPARK%202026%20%7C%20Foundation%20Week%2010%20-%20Advanced%20Deep%20Learning%20Techniques%20and%20Model%20Evaluation/slides/SPARK2026_FDN_W10_Adavance%20Deep%20Learning%20II.pdf)
 
 **Click the image below to watch the recorded session:**
 
